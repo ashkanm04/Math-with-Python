@@ -26,6 +26,7 @@ D: A matrix in the form:
 ## Indexing
 
 Define a matrix as follows:
+
 <p align="center">
   <img src=Pic2.png" />
 
