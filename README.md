@@ -17,7 +17,8 @@ C: A diagonal matrix of size 5x5.
 D: A matrix in the form:
 
 <p align="center">
-  <img src=Pic1.png" />
+  <img src="Pic1.png" width="width_value" height="height_value">
+</p>
 
 ## Random Matrix
 
@@ -28,7 +29,9 @@ D: A matrix in the form:
 Define a matrix as follows:
 
 <p align="center">
-  <img src=Pic2.png" />
+  <img src="Pic2.png" width="width_value" height="height_value">
+</p>
+
 
   Print the following submatrices:
 
